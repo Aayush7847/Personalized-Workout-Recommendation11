@@ -1,0 +1,60 @@
+[
+  {
+    "id": "443ae82aaa",
+    "timestamp": "2026-10-02T01:21:13",
+    "date": "2026-10-02 01:21",
+    "goal": "Weight Loss",
+    "target": "Full Body",
+    "fitness_level": "Advanced",
+    "equipment": "Home Gym",
+    "duration": 60,
+    "estimated_minutes": 54.2,
+    "estimated_calories": 662,
+    "variation": 0,
+    "filter_stage": "Strict match",
+    "exercises": [
+      {
+        "name": "Devil Press",
+        "sets": 5,
+        "reps": "45 sec",
+        "rest_seconds": 30,
+        "match_percent": 84.0
+      },
+      {
+        "name": "Barbell Complex",
+        "sets": 5,
+        "reps": "45 sec",
+        "rest_seconds": 30,
+        "match_percent": 83.9
+      },
+      {
+        "name": "Kettlebell Snatch",
+        "sets": 5,
+        "reps": "45 sec",
+        "rest_seconds": 30,
+        "match_percent": 80.7
+      },
+      {
+        "name": "Man Maker",
+        "sets": 5,
+        "reps": "45 sec",
+        "rest_seconds": 30,
+        "match_percent": 79.6
+      },
+      {
+        "name": "Kettlebell Swing Intervals",
+        "sets": 8,
+        "reps": "30 sec",
+        "rest_seconds": 45,
+        "match_percent": 77.4
+      },
+      {
+        "name": "Burpee Broad Jump",
+        "sets": 5,
+        "reps": "45 sec",
+        "rest_seconds": 30,
+        "match_percent": 74.5
+      }
+    ]
+  }
+]

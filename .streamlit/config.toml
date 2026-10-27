@@ -1,0 +1,15 @@
+# Streamlit configuration for the Personalized Workout Recommendation System
+[theme]
+base = "light"
+primaryColor = "#2347D6"
+backgroundColor = "#F3F5F9"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#172033"
+font = "sans serif"
+
+[server]
+headless = false
+runOnSave = false
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,32 @@
+[
+  {
+    "label": "1. Beginner + Weight Loss + No Equipment",
+    "age": 24, "height_cm": 160, "weight_kg": 68,
+    "fitness_level": "Beginner", "goal": "Weight Loss", "target_muscle": "Full Body",
+    "equipment": "No Equipment", "duration": 30, "days_per_week": 3, "exercise_type": "HIIT"
+  },
+  {
+    "label": "2. Intermediate + Muscle Gain + Full Gym (demo)",
+    "age": 21, "height_cm": 175, "weight_kg": 70,
+    "fitness_level": "Intermediate", "goal": "Muscle Gain", "target_muscle": "Chest",
+    "equipment": "Full Gym", "duration": 60, "days_per_week": 5, "exercise_type": "Strength"
+  },
+  {
+    "label": "3. Advanced + Strength + Full Gym",
+    "age": 27, "height_cm": 180, "weight_kg": 82,
+    "fitness_level": "Advanced", "goal": "Strength", "target_muscle": "Legs",
+    "equipment": "Full Gym", "duration": 90, "days_per_week": 4, "exercise_type": "Strength"
+  },
+  {
+    "label": "4. Beginner + General Fitness + Home Gym",
+    "age": 35, "height_cm": 165, "weight_kg": 62,
+    "fitness_level": "Beginner", "goal": "General Fitness", "target_muscle": "Core",
+    "equipment": "Home Gym", "duration": 45, "days_per_week": 3, "exercise_type": "Mixed"
+  },
+  {
+    "label": "5. Intermediate + Endurance + Minimal Equipment (bands)",
+    "age": 29, "height_cm": 172, "weight_kg": 66,
+    "fitness_level": "Intermediate", "goal": "Endurance", "target_muscle": "Legs",
+    "equipment": "Resistance Bands", "duration": 45, "days_per_week": 5, "exercise_type": "Cardio"
+  }
+]
